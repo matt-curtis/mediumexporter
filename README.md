@@ -14,7 +14,7 @@ I welcome contributions to make it work with other export formats
 
 ## Usage
 
-    $> mediumexporter https://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5#.t6ymx68h8 > medium_post.md
+    $> mediumexporter https://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5 > medium_post.md
 
 To have a complete list of options:
 
