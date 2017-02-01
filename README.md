@@ -1,6 +1,8 @@
 # Medium Exporter
 Export your stories published on medium.com to markdown.
 
+![image](images/screenshot.png)
+
 ## Why?
 
 I really enjoy using [Medium](https://medium.com) to publish articles related to programming, iOS and life. But I also want to have backup written in Markdown
