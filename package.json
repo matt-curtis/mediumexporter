@@ -1,0 +1,39 @@
+{
+  "name": "mediumexporter",
+  "version": "0.1.0",
+  "description": "Export posts from medium.com to markdown",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "commander": "^2.8.1",
+    "request": "^2.60.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test",
+    "build": "./build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agisilaos/mediumexporter.git"
+  },
+  "keywords": [
+    "medium",
+    "markdown"
+  ],
+  "author": "Agisilaos Tsaraboulidis(@AgisilaosTs)",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "mediumexporter": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/agisilaos/mediumexporter/issues"
+  },
+  "homepage": "https://github.com/agisilaos/mediumexporter#readme"
+}
