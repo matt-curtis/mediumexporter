@@ -18,6 +18,10 @@ I welcome contributions to make it work with other export formats. If you have a
 
     $> mediumexporter https://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5 > medium_post.md
 
+## Use it with Fish
+
+    eval (mediumexporter https://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5 > medium_post.md)
+
 To have a complete list of options:
 
     $> mediumexporter -h
