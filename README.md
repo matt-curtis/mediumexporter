@@ -13,7 +13,7 @@ I welcome contributions to make it work with other export formats. If you have a
 
 ## Installation
 
-    npm install -g mediumexporter
+    npm install -g mediumtoolkit
 
 ## Usage
 
