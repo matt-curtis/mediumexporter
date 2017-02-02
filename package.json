@@ -1,5 +1,5 @@
 {
-  "name": "mediumexporter",
+  "name": "mediumtoolkit",
   "version": "0.1.0",
   "description": "Export posts from medium.com to markdown",
   "main": "index.js",
