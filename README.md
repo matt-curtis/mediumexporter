@@ -6,6 +6,7 @@ Export your stories published on medium.com to markdown.
 ## Why?
 
 I really enjoy using [Medium](https://medium.com) to publish articles related to programming, iOS and life. But I also want to have backup written in Markdown
+
 ## Contributions
 
 I welcome contributions to make it work with other export formats. If you have any problem don't hesitate to open a new issue. If you have something to add or make the project better open a pull request!
