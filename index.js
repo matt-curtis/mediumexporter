@@ -15,8 +15,8 @@ program
   .on('--help', function(){
     console.log('  Examples:');
     console.log('');
-    console.log('    $ mediumexporter hhttps://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5#.t6ymx68h8 > medium_post.md');
-    console.log('    $ mediumexporter --headers --separator --- hhttps://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5#.t6ymx68h8 > medium_post.md');
+    console.log('    $ mediumexporter https://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5#.t6ymx68h8 > medium_post.md');
+    console.log('    $ mediumexporter --headers --separator --- https://medium.com/the-adventures-of-an-ios-developer/swift-guard-486f88ef5bd5#.t6ymx68h8 > medium_post.md');
     console.log('    $ mediumexporter mediumpost.json');
     console.log('');
   });
